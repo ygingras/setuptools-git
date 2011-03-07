@@ -27,7 +27,7 @@ if __name__ == "__main__":
     from pprint import pprint
 
     if len(sys.argv) != 2:
-        print "USAGE: %s DIRNAME" % sys.argv[0]
+        print("USAGE: %s DIRNAME" % sys.argv[0])
         sys.exit(1)
 
     pprint(gitlsfiles(sys.argv[1]))
