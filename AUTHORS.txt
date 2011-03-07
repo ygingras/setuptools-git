@@ -1,4 +1,7 @@
 
+Vinay Sajip <vinay_sajip@yahoo.co.uk>:
+  Python 3 support
+
 Humberto Diogenes <humberto@digi.com.br>:
   Modernization and portability
 
