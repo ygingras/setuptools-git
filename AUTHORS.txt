@@ -1,0 +1,6 @@
+
+Humberto Diogenes <humberto@digi.com.br>:
+  Modernization and portability
+
+Yannick Gingras <ygingras@ygingras.net>:
+  Original implementation current maintainer
