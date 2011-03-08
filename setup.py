@@ -14,7 +14,7 @@ except ImportError:
     from setuptools import setup, find_packages
 
 
-version = '0.4.0'
+version = '0.4.1'
 
 long_desc="""
 This is a plugin for setup tools that enables Git integration.  Once
