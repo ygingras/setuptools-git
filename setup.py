@@ -41,6 +41,7 @@ setup(
         "Intended Audience :: Developers",
         "License :: Public Domain",
         "Programming Language :: Python",
+        "Programming Language :: Python :: 3",
         ],
     py_modules=["setuptools_git"],
     entry_points="""
