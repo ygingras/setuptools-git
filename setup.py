@@ -27,7 +27,7 @@ result of an effort by the setuptools plugin developers to provide a
 uniform naming convention."""
 
 setup(
-    name="setuptools_git",
+    name="setuptools-git",
     version=version,
     author="Yannick Gingras",
     author_email="ygingras@ygingras.net",
